@@ -4,44 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fe9974-86c7-4ac5-ab15-d2b95d04eea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/.idea/DIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/ExercisesDIO/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/GetStarted/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/HelloDIO/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/HelloDIO/src/main/java/Collections/list/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/Java e a Arte da Abstração com Classes e Encapsulamento/.idea/Java e a Arte da Abstração com Classes e Encapsulamento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/Java e a Arte da Abstração com Classes e Encapsulamento/Record/Record.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/Java e a Arte da Abstração com Classes e Encapsulamento/out/production/Java e a Arte da Abstração com Classes e Encapsulamento/.idea/Java e a Arte da Abstração com Classes e Encapsulamento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/out/production/DIO/.idea/DIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/out/production/DIO/Java e a Arte da Abstração com Classes e Encapsulamento/.idea/Java e a Arte da Abstração com Classes e Encapsulamento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/out/production/DIO/Java e a Arte da Abstração com Classes e Encapsulamento/Record/Record.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DIO/out/production/DIO/Java e a Arte da Abstração com Classes e Encapsulamento/out/production/Java e a Arte da Abstração com Classes e Encapsulamento/.idea/Java e a Arte da Abstração com Classes e Encapsulamento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/Deitel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/DeitelExemplos/Chapter5/BreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/DeitelExemplos/Chapter6/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/DeitelExemplos/DeitelExemplos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/DeitelExemplos/out/production/DeitelExemplos/DeitelExemplos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Deitel/out/production/chapter4/chapter4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JAVA EFEITOS/.idea/JAVA EFEITOS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaGuanabara/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaGuanabara/Swing/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaGuanabara/Swing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaGuanabara/Swing/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaGuanabara/TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../coding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/coding/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/coding/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/coding/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/coding/Swing/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/coding/Swing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="28fe9974-86c7-4ac5-ab15-d2b95d04eea8" name="Changes" comment="Mentoria e Curso">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.0.0-bin/d6wjpkvcgsg3oed0qlfss3wgl/gradle-9.0.0" javaHome="/usr/lib/jvm/default-java" gradleVersion="9.0.0" />
   <component name="ProjectColorInfo">{
@@ -72,20 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.desafio-dio-POO [:br.com.dio.desafio.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/bruno/coding/java/desafio-poo-java/desafio-dio-POO/src/main/java/br/com/dio/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.desafio-dio-POO [:br.com.dio.desafio.Main.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/bruno/coding/java/desafio-poo-java/desafio-dio-POO/src/main/java/br/com/dio/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.desafio.Main" />
@@ -121,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1768844933200</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mentoria e Curso">
+      <option name="closed" value="true" />
+      <created>1768846546402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768846546402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mentoria e Curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso" />
   </component>
 </project>
